@@ -1,0 +1,2 @@
+# Parsing of arithmetic expressions in java  
+Yeah that's pretty much it. The parsing takes a string representing an arithmetic expression, transforms it into a binary tree structure and then evaluates the result of the arithmetic expression. 
